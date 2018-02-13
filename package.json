@@ -1,0 +1,17 @@
+{
+  "name": "servers",
+  "version": "0.0.0",
+  "description": "\"Code for Server Provisioning\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "aws-provision": "node AWS-provision.js",
+    "do-provision": " node DO-provision.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "needle": "latest",
+    "aws-sdk": "latest"
+  }
+}

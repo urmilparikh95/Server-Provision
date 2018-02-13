@@ -1,0 +1,5 @@
+These are the dependencies you need to install before executing the code.
+1. nodejs
+2. nodejs-legacy
+3. npm
+4. other basic requirements like git
