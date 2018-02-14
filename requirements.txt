@@ -1,5 +1,4 @@
 These are the dependencies you need to install before executing the code.
-1. nodejs
-2. nodejs-legacy
-3. npm
-4. other basic requirements like git
+1. node (v8.9.1)
+2. npm (5.5.1)
+3. other basic requirements like git
